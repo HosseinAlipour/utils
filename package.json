@@ -1,0 +1,8 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HosseinAlipour/utils.git",
+  "author": "Hossein Alipour <hossein.4lipour@gmail.com>",
+  "license": "MIT"
+}
